@@ -16,7 +16,11 @@ This is a project for RPI's Extended Cognition course. Our goal it to create a l
 We will be using a form of a transformer model which is what all mainstream generative large language models (LLM) use. 
 
 ## Resources
-**Training a CNN**
+**Setting up Cuda and Anaconda:**
+
+https://sh-tsang.medium.com/tutorial-cuda-cudnn-anaconda-jupyter-pytorch-installation-in-windows-10-96b2a2f0ac57
+
+**Training a CNN:**
 
 https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
 
