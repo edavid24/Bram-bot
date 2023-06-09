@@ -32,6 +32,12 @@ https://ocdevel.com/mlg
 
 https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
 
+**What is a Transformer:**
+
+https://www.youtube.com/watch?v=4Bdc55j80l8
+
+Unecessary, but interesting use of transformers in computer vision: https://www.youtube.com/watch?v=TrdevFK_am4
+
 **Building an LM from scratch:**
 
 https://www.youtube.com/watch?v=kCc8FmEb1nY
