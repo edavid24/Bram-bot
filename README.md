@@ -20,6 +20,14 @@ We will be using a form of a transformer model which is what all mainstream gene
 
 https://sh-tsang.medium.com/tutorial-cuda-cudnn-anaconda-jupyter-pytorch-installation-in-windows-10-96b2a2f0ac57
 
+**Machine Learning Guide Podcast**
+
+Really excellent resource that takes you from the very start of machine learning. Also linked is the compiled, curated resources that are mentioned in the podcast.
+
+https://open.spotify.com/show/5M9yZpSyF1jc7uFp2MlhP9
+
+https://ocdevel.com/mlg
+
 **Training a CNN:**
 
 https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
