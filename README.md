@@ -49,6 +49,7 @@ https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sh
 https://www.youtube.com/@aiwarehouse/videos
 
 **The AI Dilemma**
+
 A real "must watch". Many valuable and realistic perspectives on the state and future of AI
 https://www.youtube.com/watch?v=xoVJKj8lcNQ
 
