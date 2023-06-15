@@ -57,5 +57,7 @@ A real "must watch". Many valuable and realistic perspectives on the state and f
 https://www.youtube.com/watch?v=xoVJKj8lcNQ
 
 
+**Pytorch Example Code**
 
+https://colab.research.google.com/drive/1g_WnSYFj1BYPd6CMUODxdPcvlTNp01DJ?usp=sharing
 
