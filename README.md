@@ -20,9 +20,23 @@ We will be using a form of a transformer model which is what all mainstream gene
 
 https://sh-tsang.medium.com/tutorial-cuda-cudnn-anaconda-jupyter-pytorch-installation-in-windows-10-96b2a2f0ac57
 
+**Machine Learning Guide Podcast**
+
+Really excellent resource that takes you from the very start of machine learning. Also linked is the compiled, curated resources that are mentioned in the podcast.
+
+https://open.spotify.com/show/5M9yZpSyF1jc7uFp2MlhP9
+
+https://ocdevel.com/mlg
+
 **Training a CNN:**
 
 https://pyimagesearch.com/2021/07/19/pytorch-training-your-first-convolutional-neural-network-cnn/
+
+**What is a Transformer:**
+
+https://www.youtube.com/watch?v=4Bdc55j80l8
+
+Unecessary, but interesting use of transformers in computer vision: https://www.youtube.com/watch?v=TrdevFK_am4
 
 **Building an LM from scratch:**
 
@@ -30,6 +44,20 @@ https://www.youtube.com/watch?v=kCc8FmEb1nY
 
 https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing&pli=1#scrollTo=6xWI_VyAsN8F
 
+**Reinforcement Learning**
+
+https://towardsdatascience.com/reinforcement-learning-101-e24b50e1d292
+
+Fun Videos:
+https://www.youtube.com/@aiwarehouse/videos
+
+**The AI Dilemma**
+
+A real "must watch". Many valuable and realistic perspectives on the state and future of AI
+https://www.youtube.com/watch?v=xoVJKj8lcNQ
 
 
+**Pytorch Example Code**
+
+https://colab.research.google.com/drive/1g_WnSYFj1BYPd6CMUODxdPcvlTNp01DJ?usp=sharing
 
