@@ -56,8 +56,10 @@ https://www.youtube.com/@aiwarehouse/videos
 A real "must watch". Many valuable and realistic perspectives on the state and future of AI
 https://www.youtube.com/watch?v=xoVJKj8lcNQ
 
-
 **Pytorch Example Code**
 
 https://colab.research.google.com/drive/1g_WnSYFj1BYPd6CMUODxdPcvlTNp01DJ?usp=sharing
 
+**Presentation slides for Extended Cognition**
+
+Transformer overview: https://docs.google.com/presentation/d/12W713sYhEkLEY6iv2_k5WEVPbe0LPerbw0JRTdNASUg/edit?usp=sharing
